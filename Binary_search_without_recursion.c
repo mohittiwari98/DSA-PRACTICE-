@@ -1,4 +1,4 @@
-//Binary  search without recursio
+//Binary  search without recursion
 #include <stdio.h>
 int binary_search(int arr[], int size, int target) {
  int low = 0;
