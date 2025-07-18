@@ -1,4 +1,4 @@
-//Bi
+//Bin
 #include <stdio.h>
 int binary_search(int arr[], int low, int high, int target) {
  if (low > high) {
