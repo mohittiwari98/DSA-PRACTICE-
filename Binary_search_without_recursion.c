@@ -1,4 +1,4 @@
-//Binary  search w
+//Binary  search wi
 #include <stdio.h>
 int binary_search(int arr[], int size, int target) {
  int low = 0;
