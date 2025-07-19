@@ -1,4 +1,4 @@
-//fraction
+//fractiona
 #include <stdio.h>
 #include<stdlib.h>
 
