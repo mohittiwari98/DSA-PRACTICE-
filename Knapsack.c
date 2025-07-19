@@ -1,4 +1,4 @@
-//fractional kna
+//fractional knap
 #include <stdio.h>
 #include<stdlib.h>
 
