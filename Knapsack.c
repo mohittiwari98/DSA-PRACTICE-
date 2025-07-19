@@ -1,4 +1,4 @@
-//fracti
+//fractio
 #include <stdio.h>
 #include<stdlib.h>
 
