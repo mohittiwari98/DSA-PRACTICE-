@@ -1,4 +1,4 @@
-//fractional knaps
+//fractional knapsa
 #include <stdio.h>
 #include<stdlib.h>
 
