@@ -1,4 +1,4 @@
-//Bellman Ford in C
+//Bellman Ford in C 
 #include <stdio.h>
 #define MAX 100
 #define INF 9999
