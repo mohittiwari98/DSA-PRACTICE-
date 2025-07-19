@@ -1,4 +1,4 @@
-//fractional 
+//fractional k
 #include <stdio.h>
 #include<stdlib.h>
 
