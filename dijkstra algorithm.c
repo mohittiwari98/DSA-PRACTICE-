@@ -1,4 +1,4 @@
-//Dijkstra a
+//Dijkstra al
 #include <stdio.h>
 #include <limits.h>
 
