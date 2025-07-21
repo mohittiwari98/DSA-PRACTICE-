@@ -1,4 +1,4 @@
-//Dijkstra algorit
+//Dijkstra algorith
 #include <stdio.h>
 #include <limits.h>
 
