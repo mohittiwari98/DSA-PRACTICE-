@@ -1,4 +1,4 @@
-//Dijks
+//Dijkst
 #include <stdio.h>
 #include <limits.h>
 
