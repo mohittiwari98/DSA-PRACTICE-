@@ -1,4 +1,4 @@
-//Dij
+//Dijk
 #include <stdio.h>
 #include <limits.h>
 
