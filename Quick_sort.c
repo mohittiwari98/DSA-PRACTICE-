@@ -1,4 +1,4 @@
-//Quick s
+//Quick so
 #include <stdio.h>
 
 int partition(int arr[], int low, int high) {
