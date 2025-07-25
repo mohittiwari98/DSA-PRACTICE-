@@ -1,4 +1,4 @@
-//Quick sort implementa
+//Quick sort implementat
 #include <stdio.h>
 
 int partition(int arr[], int low, int high) {
