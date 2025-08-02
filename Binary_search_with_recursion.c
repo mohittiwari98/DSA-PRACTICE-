@@ -20,6 +20,7 @@ int binary_search(int arr[], int low, int high, int target) {
  return binary_search(arr, mid + 1, high, target);
 }
 int main() {
+ 
  int arr[] = {1, 3, 5, 7, 9, 11, 13, 15};
  int size = sizeof(arr) / sizeof(arr[0]);
  int target = 7;
