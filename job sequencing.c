@@ -1,6 +1,6 @@
 //job sequencing problem 
 //using greedy approach 
-//solve in c progr
+//solve in c progra
 #include <stdio.h>
 
 typedef struct {
