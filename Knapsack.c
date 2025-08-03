@@ -15,7 +15,7 @@ int compareProfit(const void *a, const void *b) {
     if (item1->profit < item2->profit) return 1;
     return -1;
 }
-//consider only we
+//consider only wei
 int compareWeight(const void *a, const void *b) {
     Item *item1 = (Item *)a;
     Item *item2 = (Item *)b;
