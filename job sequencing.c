@@ -1,5 +1,5 @@
 //job sequencing problem 
-//using greedy
+//using greedy 
 #include <stdio.h>
 
 typedef struct {
