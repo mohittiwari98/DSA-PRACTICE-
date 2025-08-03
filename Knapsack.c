@@ -1,4 +1,4 @@
-//fractional knapsack pr
+//fractional knapsack pro
 #include <stdio.h>
 #include<stdlib.h>
 
