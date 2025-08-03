@@ -1,5 +1,5 @@
 //job sequencing problem 
-//using g
+//using gr
 #include <stdio.h>
 
 typedef struct {
