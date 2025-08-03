@@ -8,7 +8,7 @@ typedef struct {
     float ratio;
 } Item;
 
-//consid
+//conside
 int compareProfit(const void *a, const void *b) {
     Item *item1 = (Item *)a;
     Item *item2 = (Item *)b;
