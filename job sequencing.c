@@ -1,4 +1,4 @@
-//job sequencing
+//job sequencing 
 #include <stdio.h>
 
 typedef struct {
