@@ -1,5 +1,5 @@
 //job sequencing problem 
-//usin
+//using
 #include <stdio.h>
 
 typedef struct {
