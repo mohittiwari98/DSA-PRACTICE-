@@ -1,4 +1,4 @@
-//Prims algorithm implementation  in c p
+//Prims algorithm implementation  in c pr
 #include <stdio.h>
 #include <limits.h>
 
