@@ -1,4 +1,4 @@
-//Pri
+//Prim
 #include <stdio.h>
 #include <limits.h>
 
