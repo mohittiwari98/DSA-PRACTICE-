@@ -1,4 +1,4 @@
-//krusk
+//kruska
 #include<stdio.h>
 #include <stdlib.h>
 
