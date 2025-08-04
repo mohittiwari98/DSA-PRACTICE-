@@ -1,4 +1,4 @@
-//Prims algorithm i
+//Prims algorithm im
 #include <stdio.h>
 #include <limits.h>
 
