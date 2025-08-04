@@ -1,4 +1,4 @@
-//Prims a
+//Prims al
 #include <stdio.h>
 #include <limits.h>
 
