@@ -1,4 +1,4 @@
-//kruskal's al
+//kruskal's alg
 #include<stdio.h>
 #include <stdlib.h>
 
