@@ -1,4 +1,4 @@
-//kruskal's algorithm imp
+//kruskal's algorithm impl
 #include<stdio.h>
 #include <stdlib.h>
 
