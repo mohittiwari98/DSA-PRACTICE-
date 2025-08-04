@@ -1,4 +1,4 @@
-//k
+//kr
 #include<stdio.h>
 #include <stdlib.h>
 
