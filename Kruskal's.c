@@ -1,4 +1,4 @@
-//kruskal's 
+//kruskal's a
 #include<stdio.h>
 #include <stdlib.h>
 
