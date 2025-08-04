@@ -1,4 +1,4 @@
-//Prims alg
+//Prims algo
 #include <stdio.h>
 #include <limits.h>
 
