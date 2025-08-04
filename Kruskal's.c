@@ -1,4 +1,4 @@
-//kruskal's algorithm implementation in c
+//kruskal's algorithm implementation in c 
 #include<stdio.h>
 #include <stdlib.h>
 
