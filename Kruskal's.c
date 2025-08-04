@@ -1,4 +1,4 @@
-//kruskal's alg
+//kruskal's algo
 #include<stdio.h>
 #include <stdlib.h>
 
