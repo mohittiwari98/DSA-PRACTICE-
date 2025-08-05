@@ -1,4 +1,4 @@
-//merge sort in sO
+//merge sort in sO 
 #include <stdio.h>
 void merge(int arr[], int left, int mid, int right) {
  int n1 = mid - left + 1;
