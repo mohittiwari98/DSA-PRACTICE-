@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include <stdlib.h>
 
-//u,v,w
+//u,v,we
 typedef struct {
     int u, v, weight;
 } Edge;
