@@ -21,6 +21,7 @@ int find(Subset subsets[], int i) {
     }
     return subsets[i].parent;
 }
+
 void unionSubsets(Subset subsets[], int x, int y) {
     int rootX = find(subsets, x);
     int rootY = find(subsets, y);
